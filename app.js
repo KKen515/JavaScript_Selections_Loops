@@ -31,7 +31,7 @@ for(let i = 1; i <= 100; i++){
 }
 
 // Exercise 3 Section
-console.log("EXERCISE 3:\n==========\n");
+/*console.log("EXERCISE 3:\n==========\n");
 
 console.log("EXERCISE 1 With WHILE LOOP");
 
@@ -105,7 +105,7 @@ do{
     integer += 1;
 }while(integer <= 100);
 
-
+*/
 console.log("EXERCISE 4:\n==========\n");
 
 let value = Math.round((Math.random() * 500));
